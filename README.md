@@ -7,12 +7,11 @@
 </head>
 <body>
     <h1>My Public Bookshelf</h1>
-    <!-- Main Menu -->
     <nav>
-        <a href="index.html">Home</a> |
-        <a href="bookshelf.html">My Bookshelf</a>
+        <a href="https://dmill204.github.io/index.html">Home</a>
     </nav>
-    <!-- Bookshelf Section -->
-    <div id="bookshelf"></div>
+    <div id="bookshelf">
+        <h1><p>Listed below are some of the books like:</p></h1>
+    </div>
 </body>
 </html>
