@@ -13,9 +13,9 @@
     <div id="bookshelf">
         <h1><p>Listed below are some of the books like:</p></h1>
         <p></p>
-        <h3><a href="https://www.google.com/books/edition/Artemis_Fowl/D9TKSKS74MwC?hl=en&gbpv=0">Artemis Fowl</a></h3>
+        <h3><a href="https://www.google.com/books/edition/Eternity_Code_The_Artemis_Fowl_Book_3/fnJ4t979fFIC?hl=en&gbpv=1&dq=artemis+fowl&printsec=frontcover">Artemis Fowl</a></h3>
         <p></p>
-        <h3><a href="https://www.google.com/books/edition/The_Godfather/acy0U6WyM7MC?hl=en&gbpv=0">The Godfather</a></h3>
+        <h3><a href="https://www.google.com/books/edition/The_Godfather/acy0U6WyM7MC?hl=en&gbpv=1&dq=the+godfather&printsec=frontcover">The Godfather</a></h3>
         <p></p>
         <h3><a href="https://www.google.com/books/edition/Twilight/ZfjzX7M8zt0C?hl=en&gbpv=1&dq=twilight&printsec=frontcover">Twilight</a></h3>
         <p></p>
