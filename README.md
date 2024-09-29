@@ -25,13 +25,13 @@
         <p></p>
         <h3><a href="https://www.google.com/books/edition/Vampire_Breath_Classic_Goosebumps_21/zdRpiFO4DE4C?hl=en&gbpv=1&dq=goosebumps&printsec=frontcover">Goosebumps</a></h3>
         <p></p>
-        <h3><a href="">Home</a></h3>
+        <h3><a href="https://www.google.com/books/edition/Percy_Jackson_and_the_Olympians_Books_I/cxhqBAAAQBAJ?hl=en&gbpv=1&dq=percy+jackson&printsec=frontcover">Percy Jackson</a></h3>
         <p></p>
-        <h3><a href="">Home</a></h3>
+        <h3><a href="https://www.google.com/books/edition/The_Partner/Al1yWGCkmLQC?hl=en&gbpv=1&dq=the+partner&printsec=frontcover">The Partner</a></h3>
         <p></p>
-        <h3><a href="">Home</a></h3>
+        <h3><a href="https://www.google.com/books/edition/The_Pelican_Brief/rQFlTZeetcoC?hl=en&gbpv=1&dq=pelican+brief&printsec=frontcover">The Pelican Breif</a></h3>
         <p></p>
-        <h3><a href="">Home</a></h3>
+        <h3><a href="https://www.google.com/books/edition/The_Firm/C3O8poPlpmoC?hl=en&gbpv=1&dq=the+firm&printsec=frontcover">The Firm</a></h3>
     </div>
 </body>
 </html>
